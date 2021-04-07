@@ -1,0 +1,42 @@
+body {
+    background-color: #ccc;
+}
+
+.cover {
+    font-family: 'Noto Serif TC', serif;
+    font-size: 64px;
+}
+
+a,
+p,
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: 'Noto Serif TC', serif;
+    text-decoration: none;
+}
+
+
+/* fullScreenBurger */
+
+.site {
+    position: relative;
+}
+
+.nav-menu {
+    position: fixed;
+    /* z-index: 999; */
+}
+
+
+/* center an image */
+
+
+/* img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+} */
